@@ -1,0 +1,8 @@
+Table Relations
+
+• Database Design;
+• Table Relations;
+• Cascade Operations;
+• E/R Diagrams;
+• Introduction to Git;
+• Introduction to GitHub.
